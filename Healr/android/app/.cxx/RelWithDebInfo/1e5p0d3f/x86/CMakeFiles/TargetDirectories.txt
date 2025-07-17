@@ -1,0 +1,2 @@
+D:/Flutter/Grad project/New folder/Healr/android/app/.cxx/RelWithDebInfo/1e5p0d3f/x86/CMakeFiles/edit_cache.dir
+D:/Flutter/Grad project/New folder/Healr/android/app/.cxx/RelWithDebInfo/1e5p0d3f/x86/CMakeFiles/rebuild_cache.dir

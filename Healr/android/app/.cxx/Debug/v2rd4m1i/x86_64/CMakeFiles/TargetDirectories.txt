@@ -1,0 +1,2 @@
+F:/flutter_projects/Healr/android/app/.cxx/Debug/v2rd4m1i/x86_64/CMakeFiles/edit_cache.dir
+F:/flutter_projects/Healr/android/app/.cxx/Debug/v2rd4m1i/x86_64/CMakeFiles/rebuild_cache.dir

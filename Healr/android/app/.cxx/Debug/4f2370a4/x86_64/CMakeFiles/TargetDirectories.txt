@@ -1,0 +1,2 @@
+D:/Flutter/My projects/Completed Apps/Grad Project/Healr/android/app/.cxx/Debug/4f2370a4/x86_64/CMakeFiles/edit_cache.dir
+D:/Flutter/My projects/Completed Apps/Grad Project/Healr/android/app/.cxx/Debug/4f2370a4/x86_64/CMakeFiles/rebuild_cache.dir
